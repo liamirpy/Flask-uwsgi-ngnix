@@ -1,13 +1,4 @@
 Flask
 flask_restful
 flask_mail
-elasticsearch
-pycurl
-bcrypt
-netaddr
-requests
-wappalyzer3
-wappalyzer
-wappalyze
-python-Wappalyzer
-python-libnmap
+
