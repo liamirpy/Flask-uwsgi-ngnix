@@ -12,9 +12,9 @@ For see The original docker visit:
  
  1- git clone https://github.com/liamirpy/Flask-uwsgi-ngnix.git
  
- 2- docker compose build
+ 2- docker-compose build
  
- 3-docker compose up 
+ 3-docker-compose up 
  
  
  If you want to run it in background mode :
